@@ -1,0 +1,65 @@
+
+#navbar {
+    position: fixed;
+    height: 100%;
+    min-width: 250px;;
+    width: 290px;
+    
+}
+
+#navbar-header {
+    display: flex;
+    background: gainsboro;
+    flex-direction: column;
+    align-items: center;
+    color: black
+}
+
+#navbar-header a {
+    color: black;
+}
+
+#nav-guide { 
+    
+    font-size: 18px;
+ }
+
+ /* when hovering over apply selector attributes */
+ #nav-guide a:hover {
+    background-color: gray;
+ }
+.nav-link {
+    display: flex;
+    background-color: yellow;
+    height: 50px;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+
+#main-doc {
+    position: absolute;
+    margin-left: 310px;
+    text-align: left;
+   
+}
+
+pre {
+    margin-right: 80px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.section-title {
+    padding-top: 5px;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.grid-properties {
+    display: grid;
+    grid-template-columns: 35% 35%;
+    grid-template-rows: auto auto;
+    margin-left: 10%;
+    margin-right: 10%;
+}
