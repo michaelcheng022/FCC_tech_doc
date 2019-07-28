@@ -2,6 +2,8 @@
 Part of the front-end practice projects for FreeCodeCamp to create a technical documentation page. 
 For this project I chose to do document how to effectively use the CSS Grid property.
 
+project guidelines: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
+
 ## Features
 * Fully responsive web page
 * Side navbar to quickly navigate through different pages
