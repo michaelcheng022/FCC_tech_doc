@@ -1,6 +1,6 @@
 ## [FCC Technical Documentation Page](https://michaelcheng022.github.io/fcc-tech-doc/)
 Part of the front-end practice projects for FreeCodeCamp to create a technical documentation page. 
-For this project I chose to do document how to effectively use the CSS Grid property. 
+For this project I chose to document how to effectively use the CSS Grid property. 
 
 This project taught me what goes into building a documentation page and how to effectively organize one. 
 
